@@ -1,4 +1,3 @@
---Active Sessions (if sp_whoisactive can't be used)
 SELECT
 	s.session_id,
 	r.start_time,
